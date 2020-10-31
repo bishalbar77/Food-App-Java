@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828387654387",
+    "firebase_url": "https://hungers-bbc15.firebaseio.com",
+    "project_id": "hungers-bbc15",
+    "storage_bucket": "hungers-bbc15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828387654387:android:5cb38eb8985afbfbf8d586",
+        "android_client_info": {
+          "package_name": "edmt.bar.hungers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828387654387-k4tv2llid1uebirdolhol5ulkq9ssvr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edmt.bar.hungers",
+            "certificate_hash": "c2fa520496ca16a802382f916e4c0c45bbe84fbb"
+          }
+        },
+        {
+          "client_id": "828387654387-142e6h3c9dndldjvuko688rc9nnfbaor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIe-nyeIiUQyC-Qn7BquYwPSQ_gGHWfwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828387654387-142e6h3c9dndldjvuko688rc9nnfbaor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
